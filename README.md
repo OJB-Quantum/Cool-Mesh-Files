@@ -5,7 +5,7 @@ Below is the primary website for the open source mesh generation tool known as G
 
 ----
 
-# SVG/PNG → Gmsh `.geo` Generator (2D + 3D, Edge/Face-Refined Mesh Density)
+## SVG/PNG → Gmsh `.geo` Generator (2D + 3D, Edge/Face-Refined Mesh Density)
 
 This repository provides a Google Colab–friendly Python script that converts either:
 

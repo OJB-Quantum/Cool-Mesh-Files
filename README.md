@@ -14,8 +14,8 @@ This repository provides a Google Colab–friendly Python script that converts e
 
 into a **Gmsh `.geo`** geometry script, while also configuring a **mesh density strategy** that is:
 
-- **finer near boundaries** (2D edges / 3D outer faces), and
-- **coarser away from boundaries** (toward 2D interiors / 3D volume interiors).
+- **finer near boundaries** (2D edges/ 3D outer faces), and
+- **coarser away from boundaries** (toward 2D interiors/ 3D volume interiors).
 
 The workflow is designed for multiphysics use cases (electrostatics, thermal, mechanics, CFD, lithography mask simulation) where boundary fidelity typically dominates accuracy.
 
